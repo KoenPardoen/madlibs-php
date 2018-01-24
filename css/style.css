@@ -1,0 +1,71 @@
+body {
+  background-color: black;
+}
+
+header {
+  font-family: 'Risque', cursive;
+  font-size: 20px;
+  margin-top: 30px;
+  width: 520px;
+  margin: auto;
+  color: white;
+}
+
+nav {
+  background-color: brown;
+  width: 520px;
+  padding: 7px 10px 7px 10px;
+  margin: auto;
+}
+
+.content h2 {
+  padding-top: 20px;
+  margin-top: 0px;
+}
+
+.content {
+  font-family: 'Oswald', sans-serif;
+  width: 520px;
+  margin: auto;
+  background-color: white;
+  padding: 0 10px 10px 10px;
+}
+
+label {
+  width: 375px;
+  display: inline-block;
+  margin: 5px;
+}
+
+button a {
+  color: black;
+}
+
+button a:hover {
+  color: black;
+}
+
+a  {
+  font-family: 'Oswald', sans-serif;
+  padding-right: 10px;
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+    color: green;
+}
+
+footer {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  padding:7px 10px 7px 10px;
+  background-color: brown;
+  width: 520px;
+  margin: auto;
+}
+
+footer p {
+  color: white;
+  margin: 0px
+}
